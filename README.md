@@ -10,4 +10,6 @@ This little program reads in text message from the command line, encodes into Mo
 ```cargo build```
 4. Run the code:
 ```cargo run```
-you will then be prompted to enter a message to encode. 
+you will then be prompted to enter a message to encode.
+
+Adil Hasan
